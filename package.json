@@ -1,0 +1,14 @@
+{
+  "name": "ajax-ws",
+  "version": "1.0.0",
+  "description": "Comparing performance of ajax and websockets using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mishal Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
